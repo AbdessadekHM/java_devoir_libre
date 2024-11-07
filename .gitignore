@@ -1,0 +1,20 @@
+.vscode
+# Ignore class files
+*.class
+
+# Ignore JAR files
+*.jar
+
+# Ignore logs
+*.log
+
+# Ignore build directories
+/bin/
+/build/
+out/
+
+# Ignore IDE files (if using IntelliJ IDEA, Eclipse, etc.)
+*.iml
+.idea/
+*.project
+*.classpath
